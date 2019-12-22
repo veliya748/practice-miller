@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/practice-miller/static/css/main.d1b05096.chunk.css",
+    "main.js": "/practice-miller/static/js/main.be550fd7.chunk.js",
+    "main.js.map": "/practice-miller/static/js/main.be550fd7.chunk.js.map",
+    "runtime-main.js": "/practice-miller/static/js/runtime-main.e7a0faa7.js",
+    "runtime-main.js.map": "/practice-miller/static/js/runtime-main.e7a0faa7.js.map",
+    "static/js/2.cf6c82e0.chunk.js": "/practice-miller/static/js/2.cf6c82e0.chunk.js",
+    "static/js/2.cf6c82e0.chunk.js.map": "/practice-miller/static/js/2.cf6c82e0.chunk.js.map",
+    "index.html": "/practice-miller/index.html",
+    "precache-manifest.e17c9e10bd02466fa097827fafc223df.js": "/practice-miller/precache-manifest.e17c9e10bd02466fa097827fafc223df.js",
+    "service-worker.js": "/practice-miller/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/practice-miller/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.cf6c82e0.chunk.js.LICENSE": "/practice-miller/static/js/2.cf6c82e0.chunk.js.LICENSE",
+    "static/media/female assistant profile.png": "/practice-miller/static/media/female assistant profile.c840e610.png",
+    "static/media/healthcare.png": "/practice-miller/static/media/healthcare.3f35d139.png",
+    "static/media/hearth.png": "/practice-miller/static/media/hearth.0f807958.png",
+    "static/media/logo.png": "/practice-miller/static/media/logo.69272775.png",
+    "static/media/map.PNG": "/practice-miller/static/media/map.b34c85bd.PNG",
+    "static/media/office.jpg": "/practice-miller/static/media/office.9c84c66c.jpg",
+    "static/media/profile doc transperent.png": "/practice-miller/static/media/profile doc transperent.de578f1b.png",
+    "static/media/welcome.jpg": "/practice-miller/static/media/welcome.df75fc92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a0faa7.js",
+    "static/js/2.cf6c82e0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.be550fd7.chunk.js"
+  ]
+}
